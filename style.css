@@ -10,7 +10,7 @@
     padding: 5px;
     margin: 2px;
     display: inline-block;
-    background-color: lightgray;
+    background-color: rgba(211, 211, 211, 0.5);
     font: 600 2.5em/1.0em 'Segoe UI Symbol';
     text-align: center;
     box-sizing: border-box;
